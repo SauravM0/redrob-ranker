@@ -1,0 +1,13 @@
+# Ranking step (rank.py) — CPU-only, no network, runs in <5 min on 100K.
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+pyyaml==6.0.1
+
+# Sandbox demo only (app.py)
+streamlit==1.37.1
+
+# Optional dense-embedding precompute (precompute.py only; needs internet once).
+# Uncomment to regenerate artifacts/ with bge-small-en-v1.5:
+# sentence-transformers==3.0.1
+# torch==2.3.1

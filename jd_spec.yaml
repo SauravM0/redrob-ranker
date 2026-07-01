@@ -1,0 +1,58 @@
+# Decoded Job Description -> machine-usable scoring spec
+role: "Senior AI Engineer - Founding Team (Redrob AI)"
+ideal_years: [5, 9]
+ideal_years_peak: 7
+
+# Query strings used for semantic similarity (TF-IDF / dense)
+jd_query: >
+  Senior AI engineer with production experience in embeddings based retrieval,
+  vector databases and hybrid search, ranking and recommendation systems shipped
+  to real users at product companies. Strong Python. Experience designing
+  evaluation frameworks for ranking systems NDCG MRR MAP and AB testing.
+  Information retrieval, NLP, semantic search, learning to rank.
+ideal_query: >
+  Applied machine learning engineer at a product company who shipped an end to end
+  ranking search or recommendation system to real users at scale. Strong opinions on
+  hybrid vs dense retrieval and offline vs online evaluation. Based in or relocatable
+  to Pune Noida Bangalore Hyderabad Mumbai Delhi.
+must_query: >
+  embeddings retrieval vector database FAISS Pinecone Weaviate Qdrant Milvus
+  Elasticsearch OpenSearch sentence-transformers BGE E5 hybrid search ranking
+  recommendation NDCG MAP information retrieval NLP semantic search learning to rank Python
+
+must_have_skills:
+  - embeddings
+  - retrieval
+  - vector
+  - faiss
+  - pinecone
+  - weaviate
+  - qdrant
+  - milvus
+  - elasticsearch
+  - opensearch
+  - sentence-transformers
+  - semantic search
+  - hybrid search
+  - ranking
+  - recommendation
+  - recsys
+  - learning to rank
+  - information retrieval
+  - nlp
+  - ndcg
+  - python
+
+shipping_terms: [search, ranking, recommendation, recommender, retrieval, recsys, matching, embeddings, relevance]
+shipping_context: [production, "real users", "at scale", deployed, shipped, launched, users, recruiter]
+
+services_companies: [tcs, "tata consultancy", infosys, wipro, accenture, cognizant, capgemini,
+  mindtree, "tech mahindra", hcl, "l&t infotech", lti, mphasis, "ltimindtree", "ibm services"]
+services_industries: ["it services", "consulting", "outsourcing", "staffing"]
+
+senior_titles: [senior, staff, lead, principal, founding, head, "sr.", architect]
+research_only_markers: ["research scientist", "phd researcher", "postdoc", "academic", "publications", "research intern"]
+cv_speech_robotics: ["computer vision", "image classification", "object detection", "speech recognition", "robotics", "autonomous"]
+nlp_ir_markers: [nlp, "natural language", retrieval, ranking, recommendation, search, embeddings, "information retrieval", semantic]
+
+india_tier1_cities: [pune, noida, bangalore, bengaluru, hyderabad, mumbai, delhi, gurgaon, gurugram, chennai, ncr, "new delhi"]
