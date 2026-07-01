@@ -12,6 +12,12 @@ python rank.py --candidates ./candidates.jsonl --out ./team_ai_is_it.csv
 Runs in **< 3 min on a 16 GB CPU machine, no GPU, no network**. Output passes the
 organizers' `validate_submission.py`.
 
+## Streamlit demo
+
+Try the hosted sandbox demo: https://sauravm0-redrob-ranker-app-koqeha.streamlit.app
+
+The demo accepts a small JSONL or JSON candidate sample and returns a ranked CSV.
+
 ## Why this wins: rank evidence, not keywords
 
 | Capability | Naive matcher | This system |
