@@ -14,7 +14,9 @@ organizers' `validate_submission.py`.
 
 ## Streamlit demo
 
-Try the hosted sandbox demo: https://sauravm0-redrob-ranker-app-koqeha.streamlit.app
+**Live Streamlit App:** [Open the Redrob Candidate Ranker](https://sauravm0-redrob-ranker-app-koqeha.streamlit.app)
+
+**Demo Video:** [Watch the project demo video](https://drive.google.com/file/d/1g0Zk_sSErWpggSUuf4i5z5zF_2yulqQm/view?usp=sharing)
 
 The demo accepts a small JSONL or JSON candidate sample and returns a ranked CSV.
 

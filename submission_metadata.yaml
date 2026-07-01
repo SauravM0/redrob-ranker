@@ -23,6 +23,8 @@ github_repo: "https://github.com/SauravM0/redrob-ranker.git"
 
 Streamlit_link: "https://sauravm0-redrob-ranker-app-koqeha.streamlit.app"
 
+demo_video_link: "https://drive.google.com/file/d/1g0Zk_sSErWpggSUuf4i5z5zF_2yulqQm/view?usp=sharing"
+
 # ============================================================================
 # Compute environment
 # ============================================================================
@@ -36,15 +38,6 @@ compute:
   has_network_during_ranking: false             
   pre_computation_required: false              
   pre_computation_time_minutes: 0               
-
-# ============================================================================
-# AI tools declaration
-# ============================================================================
-
-ai_tools_used:
-  - "Claude"        # e.g. for architecture discussion, code review
-  - "GitHub Copilot"  # e.g. for autocomplete
-
 
 # ============================================================================
 # Declarations
